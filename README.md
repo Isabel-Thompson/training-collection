@@ -54,6 +54,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
   - [Genome assembly](#genome-assembly)
   - [Metagenomics](#metagenomics)
   - [Epidemiology](#epidemiology)
+  - [Microbiology](#microbiology)
   - [Multiomics](#multiomics)
   - [Spatial transcriptomics](#spatial-transcriptomics)
   - [Long read sequencing](#long-read-sequencing)
@@ -160,6 +161,8 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Daniel Chen** chendaniely/positconf2023-academy_python](https://github.com/chendaniely/positconf2023-academy_python)
 - [**Rami Krispin** RamiKrispin/vscode-python](https://github.com/RamiKrispin/vscode-python)
 - [**Wes McKinney** wesm/pydata-book](https://github.com/wesm/pydata-book)
+- [**Lino Galiana** linogaliana/python-datascientist](https://github.com/linogaliana/python-datascientist) | [website](https://pythonds.linogaliana.fr)
+- [**Kevin Heavey** kevinheavey/modern-polars](https://github.com/kevinheavey/modern-polars/) | [website](https://kevinheavey.github.io/modern-polars/)
 
 ### R
 
@@ -313,11 +316,14 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**r-spark** r-spark/the-r-in-spark](https://github.com/r-spark/the-r-in-spark) | [website](http://therinspark.com)
 - [**R for the Rest of Us** rfortherestofus/book](https://github.com/rfortherestofus/book)
 - [**mictes** mictes/Shiny_Tutorial](https://github.com/mictes/Shiny_Tutorial) | [website](https://mictes.github.io/Shiny_Tutorial/)
+- [**jjallaire** jjallaire/hopr](https://github.com/jjallaire/hopr)
+- [**Rohan Alexander** RohanAlexander/telling_stories](https://github.com/RohanAlexander/telling_stories/) | [website](https://rohanalexander.github.io/telling_stories/)
+- [**Leonardo Collado-Torres** lcolladotor/cshl_rstats_genome_scale_2024](https://github.com/lcolladotor/cshl_rstats_genome_scale_2024) | [website](https://lcolladotor.github.io/cshl_rstats_genome_scale_2024)
 
 ### Quarto
 
-- [**UCSB-MEDS** UCSB-MEDS/customizing-quarto-websites](https://github.com/UCSB-MEDS/customizing-quarto-websites) | [website](https://ucsb-meds.github.io/customizing-quarto-websites/)
-- [**UCSB-MEDS** UCSB-MEDS/creating-quarto-websites](https://github.com/UCSB-MEDS/creating-quarto-websites) | [website](https://ucsb-meds.github.io/creating-quarto-websites/)
+- [**Master of Environmental Data Science (MEDS) program** UCSB-MEDS/customizing-quarto-websites](https://github.com/UCSB-MEDS/customizing-quarto-websites) | [website](https://ucsb-meds.github.io/customizing-quarto-websites/)
+- [**Master of Environmental Data Science (MEDS) program** UCSB-MEDS/creating-quarto-websites](https://github.com/UCSB-MEDS/creating-quarto-websites) | [website](https://ucsb-meds.github.io/creating-quarto-websites/)
 - [**posit-conf-2023** posit-conf-2023/quarto-r](https://github.com/posit-conf-2023/quarto-r) | [website](https://posit-conf-2023.github.io/quarto-r/)
 - [**Hamel Husain** hamelsmu/posit-python-quarto](https://github.com/hamelsmu/posit-python-quarto) | [website](https://bit.ly/pyquarto)
 - [**Isabella Velásquez** ivelasq/2024-01-23_getting-started-with-report-writing-using-quarto](https://github.com/ivelasq/2024-01-23_getting-started-with-report-writing-using-quarto) | [website](https://ivelasq.quarto.pub/getting-started-with-report-writing-using-quarto/#/title-slide)
@@ -345,6 +351,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**carpentries-incubator** carpentries-incubator/julia-novice](https://github.com/carpentries-incubator/julia-novice) | [website](https://carpentries-incubator.github.io/julia-novice)
 - [**Antonello Lobianco** sylvaticus/SPMLJ](https://github.com/sylvaticus/SPMLJ) | [website](https://sylvaticus.github.io/SPMLJ/stable)
 - [**Ben Lauwens** BenLauwens/ThinkJulia.jl](https://github.com/BenLauwens/ThinkJulia.jl)
+- [**Claudia Solis-Lemus** crsl4/julia-workshop](https://github.com/crsl4/julia-workshop) | [website](https://crsl4.github.io/julia-workshop/)
 
 ### Data visualization
 
@@ -358,6 +365,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Hands-On Data Visualization** HandsOnDataViz/book](https://github.com/handsondataviz/book) | [website](https://handsondataviz.org)
 - [**Carson Sievert** cpsievert/plotly_book](https://github.com/cpsievert/plotly_book) | [website](https://plotly-r.com)
 - [**Colin Diesh** cmdcolin/awesome-genome-visualization](https://github.com/cmdcolin/awesome-genome-visualization/ ) | [website](https://cmdcolin.github.io/awesome-genome-visualization/)
+- [**UW Interactive Data Lab** uwdata/visualization-curriculum](https://github.com/uwdata/visualization-curriculum) | [website](https://uwdata.github.io/visualization-curriculum/)
 
 ### Java
 
@@ -399,8 +407,8 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 ### Galaxy
 
-- [**Galaxy Project** galaxyproject/training-material](https://github.com/galaxyproject/training-material) | [website](https://training.galaxyproject.org)
 - [**Erasmus Medical Center** ErasmusMC-Bioinformatics/galaxy-courses](https://github.com/ErasmusMC-Bioinformatics/galaxy-courses)
+- [**Galaxy Project** galaxyproject/training-material](https://github.com/galaxyproject/training-material) | [website](https://training.galaxyproject.org)
 
 ### High performance computing
 
@@ -540,6 +548,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**bioinformatics.ca** bioinformaticsdotca/scRNA_2023](https://github.com/bioinformaticsdotca/scRNA_2023)
 - [**Theis Lab** theislab/single-cell-tutorial](https://github.com/theislab/single-cell-tutorial)
 - [**PAIR code** PAIR-code/understanding-umap](https://github.com/PAIR-code/understanding-umap) | [website](https://pair-code.github.io/understanding-umap)
+- [**material-share** material-share/material-share-single-cell-boot-camp](https://github.com/material-share/material-share-single-cell-boot-camp)
 
 ### Variant analysis
 
@@ -589,6 +598,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**UC Davis Bioinformatics Core Training Page** ucdavis-bioinformatics-training/2021-May-Microbial-Community-Analysis](https://github.com/ucdavis-bioinformatics-training/2021-May-Microbial-Community-Analysis)
 - [**bioinformatics.ca** bioinformaticsdotca/MIC_2023](https://github.com/bioinformaticsdotca/MIC_2023)
 - [**bioinformatics.ca** bioinformaticsdotca/MIC_2022](https://github.com/bioinformaticsdotca/MIC_2022)
+- [**bioinformatics.ca** bioinformaticsdotca/AMB_2024](https://github.com/bioinformaticsdotca/AMB_2024)
 
 ### Epidemiology
 
@@ -598,6 +608,10 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**bioinformatics.ca** bioinformaticsdotca/IDE_2023](https://github.com/bioinformaticsdotca/IDE_2023)
 - [**bioinformatics.ca** bioinformaticsdotca/IDE_2024](https://github.com/bioinformaticsdotca/IDE_2024)
 - [**Alli Black** alliblk/genepi-book](https://github.com/alliblk/genepi-book) | [website](https://alliblk.github.io/genepi-book/)
+
+### Microbiology
+
+- [**bioinformatics.ca** bioinformaticsdotca/BMB_2024](https://github.com/bioinformaticsdotca/BMB_2024)
 
 ### Multiomics
 
@@ -775,6 +789,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Emil Hvitfeldt** EmilHvitfeldt/smltar](https://github.com/EmilHvitfeldt/smltar) | [website](https://smltar.com)
 - [**Navid Nobani** Naviden/ML-intro-with-Python](https://github.com/Naviden/ML-intro-with-Python)
 - [**Maxime Labonne** mlabonne/llm-course](https://github.com/mlabonne/llm-course) | [website](https://mlabonne.github.io/blog/)
+- [**mlr-org** mlr-org/mlr3book](https://github.com/mlr-org/mlr3book) | [website](https://mlr3book.mlr-org.com)
 
 ## Others
 
